@@ -1,8 +1,37 @@
 .footer {
     background-color: #fecda7;
-    height: 797px;
+    height: 780px;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: 'BasisGrotesquePro', Arial, sans-serif;
+}
+
+@media (max-width: 1280px) {
+    .footer {
+        height: 700px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .footer {
+        height: 550px;
+    }
+}
+
+@media (max-width: 900px) {
+    .footer {
+        height: 470px;
+    }
+}
+
+@media (max-width: 750px) {
+    .footer {
+        height: 390px;
+    }
+}
+
+@media (max-width: 470px) {
+    .footer {
+        height: 230px;
+    }
 }

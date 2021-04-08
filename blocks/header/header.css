@@ -1,14 +1,17 @@
 .header {
-    max-width: 1284px;
     padding-top: 54px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    font-family: 'BasisGrotesquePro', Arial, sans-serif;
+    height: 70px;
+    position: fixed;
+    max-width: 1440px;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #ffffff;
 }
 
-@media screen and (max-width: 1439px) {
+@media (max-width: 767px) {
     .header {
-        max-width: 90%;
+        padding-top: 15px;
+        height: 80px;
     } 
 }
