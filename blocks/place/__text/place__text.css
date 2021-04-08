@@ -1,9 +1,9 @@
 .place__text {
     grid-area: text;
-    max-width: 415px;
+    max-width: 425px;
     align-self: flex-end;
-    margin-bottom: 100px;
-    margin-left: 84px;
+    margin-bottom: 90px;
+    margin-left: 80px;
 }
 
 @media (max-width: 1280px) {
