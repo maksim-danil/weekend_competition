@@ -1,0 +1,32 @@
+.intro {
+    max-width: 1284px;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-gap: 22px;
+    margin: 90px auto 148px;
+}
+
+@media (max-width: 1439px) {
+    .intro {
+        max-width: 90%;
+    }
+}
+
+@media (max-width: 900px) {
+    .intro {
+        grid-template-columns: 1fr;
+        grid-template-rows: min-content 1fr;
+        grid-gap: 30px;
+        text-align: center;
+        margin: 50px auto;
+    }
+}
+
+@media (max-width: 470px) {
+    .intro {
+        grid-gap: 40px;
+        text-align: center;
+        margin: 30px auto 0;
+        max-width: 100%;
+    }
+}

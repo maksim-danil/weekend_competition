@@ -1,3 +1,9 @@
 .place__verse {
     margin-bottom: 70px;
 }
+
+@media (max-width: 1024px) {
+    .place__verse {
+        margin-bottom: 40px;
+    }
+}
