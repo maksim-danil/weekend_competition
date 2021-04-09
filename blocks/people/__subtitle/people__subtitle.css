@@ -1,0 +1,43 @@
+.people__subtitle {
+    margin: 0;
+    font-size: 39px;
+    line-height: 46px;
+    padding: 42px 0 140px;
+    font-weight: bold;
+    max-width: 450px;
+}
+
+@media (max-width: 1280px) {
+    .people__subtitle {
+        padding: 40px 0 70px;
+    }
+}
+
+@media (max-width: 1024px) {
+    .people__subtitle {
+        padding: 30px 0 50px;
+    }
+}
+
+@media (max-width: 900px) {
+    .people__subtitle {
+        padding-top: 20px;
+        font-size: 30px;
+        line-height: 36px;
+    }
+}
+
+@media (max-width: 750px) {
+    .people__subtitle {
+        font-size: 54px;
+        line-height: 70px;
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 470px) {
+    .people__subtitle {
+        font-size: 40px;
+        line-height: 52px;
+    }
+}
