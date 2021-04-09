@@ -1,4 +1,4 @@
-.intro__caption {
+.intro__subtitle {
     font-size: 39px;
     font-weight: bold;
     line-height: 1.2;
@@ -6,7 +6,7 @@
 }
 
 @media (max-width: 490px) {
-    .intro__caption {
+    .intro__subtitle {
         max-width: 90%;
         font-size: 20px;
         margin: 0 auto;
