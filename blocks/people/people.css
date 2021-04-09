@@ -2,3 +2,9 @@
     max-width: 90%;
     padding: 155px 0 167px;
 }
+
+@media (max-width: 900px) {
+    .people {
+        padding: 60px 0;
+    }
+}
