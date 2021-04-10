@@ -4,7 +4,7 @@
         "image title"
         "image text";
     justify-content: left;
-    grid-template-columns: 50% 1fr;
+    grid-template-columns: 50% auto;
     grid-template-rows: repeat(2, 300px);
 }
 
