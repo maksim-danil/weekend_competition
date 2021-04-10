@@ -27,8 +27,9 @@
 
 1. Подборы шрифтов с примененим стороних ресурсов, софта и форумов. Веб ресурсы: [WhatTheFont](https://www.myfonts.com/WhatTheFont/), [What Font is](https://www.whatfontis.com/); софт: [FontDetect](http://fontmassive.com/fd.php); форум: [Fontmassive](http://fontmassive.com/discuss/).
 2. Определение используемых в макете цветов, через реурсы [Sanstv](https://sanstv.ru/color), расширения для браузера [ColorZilla](https://www.colorzilla.com/).
-3. [Оптимизация картинок]((https://tinypng.com/)).
-4. Регистрация и создание на [Github](https://github.com/maksim-danil) организация для совместной работой над проектом. 
+3. [Оптимизация картинок](https://tinypng.com/).
+4. Регистрация и создание на [Github](https://github.com/maksim-danil) организации для совместной работой над проектом. 
+5. Разработка страницы в соответствии с макетом по [Pixel perfect](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=ru).
 
 **Ссылки на проект**
 
