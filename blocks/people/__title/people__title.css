@@ -5,3 +5,9 @@
     font-weight: bold;
     text-transform: uppercase
 }
+
+@media (max-width: 900px) {
+    .people__title {
+        text-align: center;
+    }
+}

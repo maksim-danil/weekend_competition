@@ -6,3 +6,10 @@
     margin: 0;
     padding-left: 0;
 }
+
+@media (max-width: 599px) {
+    .table {
+        justify-content: center;
+        text-align: center;
+    }
+}
