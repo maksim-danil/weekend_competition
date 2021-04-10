@@ -1,5 +1,5 @@
 .header {
-    padding-top: 54px;
+    padding: 54px 0;
     position: fixed;
     max-width: 1440px;
     top: 0;
@@ -10,7 +10,7 @@
 
 @media (max-width: 767px) {
     .header {
-        padding-top: 15px;
+        padding: 15px 0 0;
         height: 80px;
     } 
 }

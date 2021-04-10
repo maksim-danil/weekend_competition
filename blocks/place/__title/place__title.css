@@ -5,6 +5,7 @@
     padding: 70px 0 0 80px;
     margin: 0;
     font-weight: bold;
+    align-self: flex-start;
 }
 
 @media (max-width: 1280px) {
